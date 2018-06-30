@@ -1,5 +1,5 @@
-//this codeshows how to  turn  led on when a switch is preesed using interrupts  
-//for components guide check the readme file
+//Control led by switch & reading temperature sensor
+//for components guide check the README file
 
 const int led=13;          //led output pin
 const int switchpin=2;     //switch input pin
