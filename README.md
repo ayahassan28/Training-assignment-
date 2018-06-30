@@ -6,7 +6,7 @@
 # <a name="introduction"></a>introduction
 * simple code to control led by switch using interrupts and read temperature sensor value 
  [![Everything Is AWESOME](https://image.ibb.co/k2Wqey/video.png)]
- (https://www.youtube.com/watch?v=-GAm9ZOLQSg&feature=youtu.be "Everything Is AWESOME")
+ (https://img.youtube.com/vi/<https://www.youtube.com/watch?v=-GAm9ZOLQSg&feature=youtu.be>/0.jpg)
 
 
 
