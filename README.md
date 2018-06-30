@@ -17,6 +17,7 @@
 * LM35 analog temperature sensor 
 *330k ohm resistor
 * 10k ohm resistor if you won't activate internal pull up resistor  
+
 *![picture](Training-assignment-/circuit simulation.png)
   
 
