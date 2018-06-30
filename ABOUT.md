@@ -1,7 +1,6 @@
 # Table of Contents
-* [what i want to do in this example](#what i want to do in this example)
-* [Thought Process](#Thought Process )
-* [Thought Process](#Thought Process )
+* [Accomplishment](#Accomplishment)
+* [Process](#Process )
 * [Notes](#Notes )
 
 
