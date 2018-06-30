@@ -15,8 +15,9 @@
 * ARDUINO IDE to burn the code on the chip
 * Switch 
 * LM35 analog temperature sensor 
-* 10k resistor if you won't activate internal pull up resistor  
-*![picture](36339999_409776522840897_545512772746608640_n.png)
+*330k ohm resistor
+* 10k ohm resistor if you won't activate internal pull up resistor  
+*![picture](Training-assignment-/circuit simulation.png)
   
 
 <hr>
