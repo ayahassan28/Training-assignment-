@@ -13,7 +13,7 @@
 
 <hr>
 
-# <a name="Thought Process"></a>Thought Process.
+# <a name="Thought Process"></a>Thought Process
 * I thought first to use a simple if statement in the main loop to check the switch condition but the instructions said 
 that this process should be continues so it wouldn't make any sense to keep the main loop busy asking over and over 
 about the switch condition .
@@ -25,7 +25,7 @@ about the switch condition .
 <hr>
 
 
-# <a name="Notes"></a>Notes.
+# <a name="Notes"></a>Notes
 * this example is simple so i didn't face a real problem with it .
 * i'm familier with arduino and c programming for 4 years now so i'm not a beginner but i'm not a professional as well .
 
