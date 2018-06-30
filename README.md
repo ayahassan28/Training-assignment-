@@ -18,7 +18,7 @@
 * 330k ohm resistor
 * 10k ohm resistor if you won't activate internal pull up resistor  
 
-*![picture](Training-assignment-/circuit simulation.png)
+*![picture](https://github.com/ayahassan28/Training-assignment-/blob/master/circuit%20simulation.png?raw=true)
   
 
 <hr>
