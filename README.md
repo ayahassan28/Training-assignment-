@@ -1,7 +1,7 @@
 # Table of Contents
-* [introduction](#introduction)
-* [prerequisites](#prerequisites)
-* [notes](#notes)
+* [Introduction](#Introduction)
+* [Prerequisites](#Prerequisites)
+* [Notes](#Notes)
 
 # <a name="introduction"></a>introduction
 * simple code to control led by switch using interrupts and read temperature sensor value 
